@@ -7,4 +7,4 @@ title: Loving this View!
 
 
 
-Just swinging around the city, crooks feel free to start a crime. I'll be there in a matter of seconds!
+Just swinging around the city, crooks feel free to start a crime. I'll be there in a matter of seconds to put you behind bars.
