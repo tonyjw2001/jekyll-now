@@ -6,4 +6,4 @@ title: Someone Broke the Supervillians out
 ![_config.yml](/images/enemies-escape.jpg)
 
 
-Need all the help I can get! Police be careful with the outbreak of criminals. If anyone finds info on Vulture, Martin Lee, Rhino, Electro, or Scorpion please let me know!
+Need all the help I can get! Police be careful with the outbreak of criminals. If anyone finds info on Vulture, Martin Lee, Rhino, Electro, or Scorpion please let me know!<a href=http://marvels-spider-man.wikia.com/wiki/Sinister_Six>Some info on them</a>
