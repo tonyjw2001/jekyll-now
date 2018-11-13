@@ -3,19 +3,19 @@ layout: post
 title: Spider-Man 
 ---
 
-[SPIDER-MAN PS4](/images/testspider.jpg)
+![SPIDER-MAN PS4](/images/testspider.jpg)
 
 ## Amazing Artist
 This guy does amazing art for many superheros like myself. I loved this piece especially and cannot believe how great it looks.
 
 [Credit to artist here](https://twitter.com/Lozifer).
 
-[Civilian Picture](/images/civilian-picture.jpg)
+![Civilian Picture](/images/civilian-picture.jpg)
 
 ## Daily Crime
 Picture taken by civilian after in peril with Fisk criminals. Don't know how they got this incredible pic but congrat to them!
 
-[Goodbye](/images/stanlee.jpg)
+![Goodbye](/images/stanlee.jpg)
 
 ## EXCELSIOR
 
