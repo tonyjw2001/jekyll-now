@@ -1,24 +1,22 @@
 ---
 layout: post
-title: Spuder-Man 
+title: Spider-Man 
 ---
 
-![SPUDER-MAN PS4!](/images/testspider.jpg)
+[SPIDER-MAN PS4](/images/testspider.jpg)
 
 ## Amazing Artist
-This guy does amazing art for many superheros like myself. I loved this piece especially and cannot believe how great it looks
+This guy does amazing art for many superheros like myself. I loved this piece especially and cannot believe how great it looks.
 
 [Credit to artist here](https://twitter.com/Lozifer).
 
-![Spider Art](/images/testspider.jpg)
+[Civilian Picture](/images/civilian-picture.jpg)
 
-## HEADING 2
+## Daily Crime
+Picture taken by civilian after in peril with Fisk criminals. Don't know how they got this incredible pic but congrat to them!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Goodbye](/images/stanlee.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+## EXCELSIOR
 
-## HEADING 3
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Yesterday past a legend that wrote about many heros like myself, we all thank you for all you've done Stan Lee. Rest in Peace Stan "The Man" Lee.
